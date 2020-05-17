@@ -1,0 +1,4 @@
+#Sat May 16 12:05:28 EET 2020
+base.0=/home/mohamed/AndroidStudioProjects/yousof_shop/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
